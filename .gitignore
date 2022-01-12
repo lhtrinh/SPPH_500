@@ -38,21 +38,6 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# Data files
-.csv
-.xls
-.xlsx
-
-#Documents and books
-.pdf
-.doc
-.docx
-
-#Presentations
-.ppt
-.pptm
-.pptx
-
 # All gitignore copied from 581C
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -183,3 +168,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data files
+*.csv
+*.xls
+*.xlsx
+
+#Documents and books
+*.pdf
+*.doc
+*.docx
+
+#Presentations
+*.ppt
+*.pptm
+*.pptx
